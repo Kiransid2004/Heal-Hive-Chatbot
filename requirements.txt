@@ -1,0 +1,7 @@
+flask
+transformers
+google-api-python-client
+requests
+numpy
+protobuf
+urllib3
