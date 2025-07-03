@@ -17,8 +17,7 @@ HealHive is an AI-driven chatbot that **analyzes user emotions** and provides **
 ## **Tech Stack**  
 🔹 **Backend:** Flask, Hugging Face NLP, YouTube API  
 🔹 **Frontend:** React (Planned), UI/UX enhancements  
-🔹 **Hosting:** Render/Railway for backend deployment  
-🔹 **Future Expansion:** Flutter/Kivy for mobile integration  
+
 
 ## **Installation & Setup**  
 1️⃣ **Clone the Repository**  
@@ -39,15 +38,6 @@ python app.py
 curl -X POST http://127.0.0.1:5000/analyze -H "Content-Type: application/json" -d '{"text": "I need motivation!"}'
 ```
 
-## **Deployment Guide**  
-🎯 **Render/Railway Integration** → Deploy the Flask backend online  
-🎯 **React Frontend** → Connect the chatbot to a responsive UI  
-🎯 **Mobile Expansion** → Convert the chatbot into a standalone app  
-
-## **Future Enhancements**  
-📡 **Voice Interaction Support**  
-🎨 **Dynamic UI Theme Changes Based on Mood**  
-📱 **Integration with Mobile Apps**  
 
 ---
 
